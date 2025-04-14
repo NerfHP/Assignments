@@ -1,0 +1,11 @@
+#Basic Mathematical Operations
+fn=float(input('first number: '))
+sn=float(input('second number: '))
+
+add = fn + sn
+sub = fn - sn
+multi = fn * sn
+
+print("Addition: " , add)
+print("Subtract: " , sub)
+print("Multiplication: " , multi)
