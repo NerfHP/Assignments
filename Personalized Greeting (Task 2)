@@ -1,0 +1,8 @@
+from pyexpat.errors import messages
+
+fn=input('Enter your first name: ')
+sn=input('Enter your second name: ')
+
+fullname = fn + " " + sn
+message = "Hello," + fullname  + "! Welcome to my Python program"
+print(message)
