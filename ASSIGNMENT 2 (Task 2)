@@ -1,0 +1,8 @@
+n= list(range(1,51))
+sum = 0
+
+for x in n:
+    sum += x
+    print(x)
+
+print("The sun of integers from 1 to 50 is:",sum)
