@@ -4,5 +4,5 @@ fn=input('Enter your first name: ')
 sn=input('Enter your second name: ')
 
 fullname = fn + " " + sn
-message = "Hello," + fullname  + "! Welcome to my Python program"
+message = "Hello," + fullname  + "! Welcome to my Python Program"
 print(message)
