@@ -1,4 +1,5 @@
 #Basic Mathematical Operations
+
 fn=float(input('first number: '))
 sn=float(input('second number: '))
 
