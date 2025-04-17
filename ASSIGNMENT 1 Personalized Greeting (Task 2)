@@ -1,4 +1,4 @@
-from pyexpat.errors import messages
+#Person Greetings
 
 fn=input('Enter your first name: ')
 sn=input('Enter your second name: ')
