@@ -1,0 +1,9 @@
+#Math Module for Calculations
+
+n=float(input('Enter a number: '))
+
+from math import *
+
+print("square root: ", sqrt(n))
+print("Natural logarithm (log base e):", log(n))
+print("Sine of the number (in radians):", sin(n))
