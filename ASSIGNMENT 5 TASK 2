@@ -1,0 +1,11 @@
+#Demonstrate List Slicing
+numbers = list(range(1, 11))
+
+print("Original list:", numbers)
+
+first_five = numbers[:5]
+
+reversed_five = first_five[::-1]
+
+print("Extracted First Five Elements:", first_five)
+print("Reversed Extracted Elements:", reversed_five)
